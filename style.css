@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> abcf2fe92b835ee8fdca37927aa91ea2caaea745
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 .red{
     width: 187px;
@@ -53,12 +57,44 @@
 
     background: #10BD17;
     border-radius: 93.5px;
+=======
+.yellow{
+    width: 187px;
+    height: 187px;
+    background: #A9BC34;
+    border-radius: 93.5px;
+}
+
+.yellow_eyes{
+    display: flex;
+    padding:  54px 0 0 37px;
+}
+.eye_1{
+    width: 37px;
+    height: 39px;
+    background: #A9BC34;
+    border-radius: 93.5px;
+    margin: 0 0 0 31px;
+}
+.eye_2{
+    width: 37px;
+    height: 39px;
+    background: #A9BC34;
+    border-radius: 93.5px;
+    margin: 0 0 0 31px;
+>>>>>>> abcf2fe92b835ee8fdca37927aa91ea2caaea745
 }
 .green_mouth{
     width: 114px;
     height: 35px;
 
+<<<<<<< HEAD
     background: #10BD17;
     border-radius: 0px 0px 125px 125px;
 }
 >>>>>>> 903bb2109b910d03954d1d99ed09da52ba9bc30f
+=======
+    background: #A9BC34;
+    border-radius: 0px 0px 125px 125px;
+}
+>>>>>>> abcf2fe92b835ee8fdca37927aa91ea2caaea745

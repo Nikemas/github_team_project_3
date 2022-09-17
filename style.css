@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yellow{
+    width: 187px;
+    height: 187px;
+    background: #A9BC34;
+    border-radius: 93.5px;
+}
+
+.yellow_eyes{
+    display: flex;
+    padding:  54px 0 0 37px;
+}
+.eye_1{
+    width: 37px;
+    height: 39px;
+    background: #A9BC34;
+    border-radius: 93.5px;
+    margin: 0 0 0 31px;
+}
+.eye_2{
+    width: 37px;
+    height: 39px;
+    background: #A9BC34;
+    border-radius: 93.5px;
+    margin: 0 0 0 31px;
+}
+.green_mouth{
+    width: 114px;
+    height: 35px;
+
+    background: #A9BC34;
+    border-radius: 0px 0px 125px 125px;
+}

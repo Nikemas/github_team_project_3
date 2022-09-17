@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red{
+    width: 187px;
+    height: 187px;
+    background: #BE3333;
+    border-radius: 93.5px;
+}
+
+.eyes__red{
+    display: flex;
+    padding: 54px 0 0 37px;
+}
+
+.eye__red{
+    width: 37px;
+    height: 39px;
+    background: #BE3333;
+    border-radius: 93.5px;
+    margin: 0 35px 0 0;
+}
+
+.mouth__red{
+    width: 114px;
+    height: 35px;
+    background: #BE3333;
+    border-radius: 0px 0px 125px 125px;
+    margin: 10px 0 0 37px;
+}

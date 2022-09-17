@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -31,3 +32,33 @@
     border-radius: 0px 0px 125px 125px;
     margin: 10px 0 0 37px;
 }
+=======
+.green{
+    width: 187px;
+    height: 187px;
+
+    background: #10BD17;
+    border-radius: 93.5px}
+
+.green_eyes{
+    width: 37px;
+    height: 39px;
+
+    background: #10BD17;
+    border-radius: 93.5px;
+}
+.green_eyes1{
+    width: 37px;
+    height: 39px;
+
+    background: #10BD17;
+    border-radius: 93.5px;
+}
+.green_mouth{
+    width: 114px;
+    height: 35px;
+
+    background: #10BD17;
+    border-radius: 0px 0px 125px 125px;
+}
+>>>>>>> 903bb2109b910d03954d1d99ed09da52ba9bc30f
